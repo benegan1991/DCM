@@ -23,7 +23,7 @@
 
         <div class="sub-header-container">
             <div class="wrapper clearfix">
-                <p>Call us: 07772 561 285 | Email: <a href="mailto:degan@dentalcm.co.uk">degan@dentalcm.co.uk</a></p>
+                <p>Call us: 07772 561 285 - Email: <a href="mailto:degan@dentalcm.co.uk">degan@dentalcm.co.uk</a></p>
                 <ul class="social">
                     <li><a href="https://twitter.com/Dental_CM" target="_blank"><i class="fa fa-twitter"></i></a></li>
                     <li><a href="https://www.facebook.com/DentalComplianceMatters" target="_blank"><i class="fa fa-facebook"></i></a></li>
