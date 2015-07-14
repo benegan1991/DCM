@@ -38,7 +38,7 @@
                 </div>
                 <nav>
                     <ul>
-                        <li><a href="about.php">About DCM!</a></li>
+                        <li><a href="about.php">About DCM</a></li>
                         <li><a href="training.php">Training</a></li>
                         <li><a href="services.php">Services</a></li>
                         <li><a href="news.php">News</a></li>
